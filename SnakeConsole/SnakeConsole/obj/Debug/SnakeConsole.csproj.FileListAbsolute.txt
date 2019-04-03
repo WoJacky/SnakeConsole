@@ -1,0 +1,7 @@
+C:\Users\wojci\source\repos\SnakeConsole\SnakeConsole\SnakeConsole\bin\Debug\SnakeConsole.exe.config
+C:\Users\wojci\source\repos\SnakeConsole\SnakeConsole\SnakeConsole\bin\Debug\SnakeConsole.exe
+C:\Users\wojci\source\repos\SnakeConsole\SnakeConsole\SnakeConsole\bin\Debug\SnakeConsole.pdb
+C:\Users\wojci\source\repos\SnakeConsole\SnakeConsole\SnakeConsole\obj\Debug\SnakeConsole.csprojAssemblyReference.cache
+C:\Users\wojci\source\repos\SnakeConsole\SnakeConsole\SnakeConsole\obj\Debug\SnakeConsole.csproj.CoreCompileInputs.cache
+C:\Users\wojci\source\repos\SnakeConsole\SnakeConsole\SnakeConsole\obj\Debug\SnakeConsole.exe
+C:\Users\wojci\source\repos\SnakeConsole\SnakeConsole\SnakeConsole\obj\Debug\SnakeConsole.pdb
